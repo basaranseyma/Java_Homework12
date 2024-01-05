@@ -1,0 +1,2 @@
+ # Sorting Three Numbers 
+This simple Java program is an assignment for [patika.dev](https://patika.dev) and prompts the user to input three distinct integers and then sorts them in ascending order. If the user inputs the same number, the program prompts the user to enter different numbers.
